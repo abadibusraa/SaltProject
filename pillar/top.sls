@@ -1,0 +1,3 @@
+base:
+  '*':
+    - kartaca-pillar
